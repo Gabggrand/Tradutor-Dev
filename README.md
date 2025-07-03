@@ -1,15 +1,23 @@
 # Tradutor Dev
+Este projeto foi desenvolvido durante um curso de front-end com o propósito de praticar a construção de interfaces modernas usando React, Tailwind CSS e Vite.
 
-Tradutor Dev é um projeto de interface inspirado no Google Tradutor, desenvolvido com React, Tailwind CSS e Vite. Este projeto tem como foco principal a prática de construção de interfaces modernas, com atenção à responsividade, organização de componentes e uso eficiente do Tailwind para estilização.
+Inspirado na interface do Google Tradutor, o projeto foca em replicar a estrutura visual e elementos de interação básicos, sem implementação real de tradução ou backend.
 
-Apesar de não contar com funcionalidade de tradução real, o projeto simula a estrutura visual e os elementos de interação de um tradutor online, servindo como um exercício prático de front-end voltado para aprimorar habilidades em:
+## Tecnologias utilizadas
+- React
 
-- Criação de componentes com React
+- Tailwind CSS
 
-- Estilização com Tailwind CSS
+- Vite
 
-- Organização de layout responsivo
+## Objetivos do projeto
+- Praticar criação e organização de componentes React
 
-- Estruturação de projeto com Vite
+- Aplicar estilização moderna com Tailwind CSS
 
-Esse projeto faz parte de um conjunto de estudos e clona visualmente ferramentas conhecidas, reforçando o domínio de boas práticas no desenvolvimento front-end moderno.
+- Construir um layout responsivo e funcional
+
+- Consolidar conceitos aprendidos durante o curso
+
+## Resultado
+O projeto é uma simulação visual e interativa da interface de um tradutor online, ideal para aprendizado e portfólio.

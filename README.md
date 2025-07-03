@@ -1,12 +1,14 @@
-# React + Vite
+Tradutor Dev
+Tradutor Dev é um projeto de interface inspirado no Google Tradutor, desenvolvido com React, Tailwind CSS e Vite. Este projeto tem como foco principal a prática de construção de interfaces modernas, com atenção à responsividade, organização de componentes e uso eficiente do Tailwind para estilização.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Apesar de não contar com funcionalidade de tradução real, o projeto simula a estrutura visual e os elementos de interação de um tradutor online, servindo como um exercício prático de front-end voltado para aprimorar habilidades em:
 
-Currently, two official plugins are available:
+- Criação de componentes com React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Estilização com Tailwind CSS
 
-## Expanding the ESLint configuration
+- Organização de layout responsivo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Estruturação de projeto com Vite
+
+Esse projeto faz parte de um conjunto de estudos e clona visualmente ferramentas conhecidas, reforçando o domínio de boas práticas no desenvolvimento front-end moderno.
